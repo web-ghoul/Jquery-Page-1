@@ -250,7 +250,7 @@ html{
     top: -20%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('../Images/jakub-gorajek-hISbNBGlYXk-unsplash.jpg');
+    background-image: url('./Images/jakub-gorajek-hISbNBGlYXk-unsplash.jpg');
     transform: skewY(10deg);
 }
 .title .overlay{
@@ -628,7 +628,7 @@ html{
     top:0%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('../Images/joris-visser--jRDL2az1zk-unsplash.jpg');
+    background-image: url('./Images/joris-visser--jRDL2az1zk-unsplash.jpg');
     transform: skewY(10deg);
 }
 .about .overlay{
